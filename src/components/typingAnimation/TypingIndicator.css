@@ -1,0 +1,9 @@
+/* TypingIndicator.css */
+.typing-indicator {
+  display: flex;
+  align-items: center;
+}
+
+.typing-indicator span {
+  font-size: 16px;
+}
